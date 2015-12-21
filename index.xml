@@ -6,7 +6,313 @@
     <description>Recent content on Sickness Visual Novel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 21 Dec 2015 13:54:06 +1100</lastBuildDate>
     <atom:link href="https://koroshiya.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>index</title>
+      <link>https://koroshiya.github.io/_index/</link>
+      <pubDate>Mon, 21 Dec 2015 13:54:06 +1100</pubDate>
+      
+      <guid>https://koroshiya.github.io/_index/</guid>
+      <description>&lt;p&gt;Welcome to the Sickness VN homepage.&lt;/p&gt;
+
+&lt;p&gt;Here you can view information pertaining to the Sickness video game and its characters/content, view screenshots of the game in action, check on how far through the game&#39;s development is, and download Sickness itself.&lt;/p&gt;
+
+&lt;p&gt;If you don&#39;t know what Sickness is, or you want to know more, start by checking out the &lt;a href=&#34;https://koroshiya.github.io/about&#34;&gt;About page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For brief character bio&#39;s and a glance at the main characters, go to the &lt;a href=&#34;https://koroshiya.github.io/characters&#34;&gt;Characters page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There are also several &lt;a href=&#34;https://koroshiya.github.io/screenshots&#34;&gt;screenshots available&lt;/a&gt;, in case you want to see what the actual gameplay is like.&lt;/p&gt;
+
+&lt;p&gt;Once you have all of the information you need, head to the &lt;a href=&#34;https://koroshiya.github.io/download&#34;&gt;Downloads section&lt;/a&gt;and check it out for yourself.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About Sickness</title>
+      <link>https://koroshiya.github.io/about/</link>
+      <pubDate>Thu, 10 Dec 2015 16:03:01 +1100</pubDate>
+      
+      <guid>https://koroshiya.github.io/about/</guid>
+      <description>&lt;ul class=&#34;nav nav-tabs&#34;&gt;
+    &lt;li role=&#34;presentation&#34; class=&#34;active&#34;&gt;
+        &lt;a href=&#34;#&#34; onclick=&#34;uncollapse(0);&#34;&gt;What is a Visual Novel (VN)?&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li role=&#34;presentation&#34;&gt;
+        &lt;a href=&#34;#&#34; onclick=&#34;uncollapse(1);&#34;&gt;Themes/Warning&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li role=&#34;presentation&#34;&gt;
+        &lt;a href=&#34;#&#34; onclick=&#34;uncollapse(2);&#34;&gt;Gameplay &amp;amp; in-game elements&lt;/a&gt;
+    &lt;/li&gt;
+
+    &lt;li role=&#34;presentation&#34; class=&#34;dropdown&#34;&gt;
+        &lt;a href=&#34;#&#34; onclick=&#34;uncollapse(3);&#34;&gt;Plot&lt;/a&gt;
+    &lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;div id=&#34;accordion&#34;&gt;
+  &lt;div class=&#34;content&#34;&gt;&lt;span&gt;&lt;br/&gt;Sickness is a &lt;a href=&#34;https://en.wikipedia.org/wiki/Visual_novel&#34; target=&#34;_blank&#34; style=&#34;color:red;&#34;&gt;visual novel (VN)&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;For those unfamiliar with VNs, a VN is the digital equivalent of a &amp;ldquo;choose your own adventure&amp;rdquo; book. Put simply, it&amp;rsquo;s a mixture of a novel and a video game.&lt;br/&gt;&lt;br/&gt;Like novels, VNs focus on story rather than gameplay.&lt;br/&gt;Like video games, VNs are interactive, contain graphics, music, SFX, and other engaging elements.&lt;br/&gt;&lt;br/&gt;VNs are typically comprised of:&lt;br/&gt;
+      &lt;ul&gt;
+        &lt;li&gt;background images&lt;/li&gt;
+        &lt;li&gt;character sprites&lt;/li&gt;
+        &lt;li&gt;descriptive text&lt;/li&gt;
+        &lt;li&gt;character dialogue&lt;/li&gt;
+        &lt;li&gt;background music&lt;/li&gt;
+        &lt;li&gt;sound effects&lt;/li&gt;
+        &lt;li&gt;decisions for the player to make&lt;/li&gt;
+      &lt;/ul&gt;Some VNs also include animation, voice actors, and other such elements.&lt;br/&gt;&lt;br/&gt;In the case of Sickness in particular, there is only basic animation, and there are no voice actors.&lt;br/&gt;There are plenty of decisions to make (more as the game progresses), some that only effect dialogue, others that effect the outcome of the entire game.&lt;br/&gt;&lt;br/&gt;Sickness is an ADV-style visual novel written with the Ren&amp;rsquo;Py scripting engine.&lt;br/&gt;&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;
+  &lt;div class=&#34;content&#34;&gt;&lt;span&gt;&lt;br/&gt;While the nature of Sickness does vary a little depending on the decisions you make, the dominant themes are romance, violent crime, and comedy.&lt;br/&gt;&lt;br/&gt;Some routes of Sickness introduce borderline sexual content, others revolve around love disorders, and some explore mental illness. Most common among all routes, however, is death; there isn&amp;rsquo;t a single route without at least one death.&lt;br/&gt;&lt;br/&gt;If you feel unconfortable with such themes, please consider whether or not you want to play this game. This is not a pure romance VN bereft of conflict.&lt;br/&gt;&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;
+  &lt;div class=&#34;content&#34;&gt;&lt;span&gt;
+      &lt;center&gt;
+        &lt;h3&gt;Gameplay&lt;/h3&gt;
+      &lt;/center&gt;As with most VNs, the gameplay in Sickness largely consists of progressing through text, scenes, etc. and making choices on behalf of the main character.&lt;br/&gt;&lt;br/&gt;Within Sickness, choices can effect the following:&lt;br/&gt;
+      &lt;ul&gt;
+        &lt;li&gt;Conversations&lt;/li&gt;
+        &lt;li&gt;How scenes play out (including CGs viewed)&lt;/li&gt;
+        &lt;li&gt;Character relationships&lt;/li&gt;
+        &lt;li&gt;Availability of future choices&lt;/li&gt;
+        &lt;li&gt;Which characters, including the main character, live or die&lt;/li&gt;
+        &lt;li&gt;How soon, and in what manner, the game ends&lt;/li&gt;
+      &lt;/ul&gt;And other miscellaneous aspects of the game.&lt;br/&gt;&lt;br/&gt;There isn&amp;rsquo;t much else to say about the gameplay in Sickness. As a Visual Novel, the emphasis of the game is on the story, and the interactivity comes from player decisions.&lt;br/&gt;&lt;br/&gt;
+      &lt;center&gt;
+        &lt;h3&gt;Relationships&lt;/h3&gt;
+      &lt;/center&gt;&lt;br/&gt;In some VNs (ie. dating sims), relationships with other characters exist solely for the sake of romance. You get close to characters in order to charm or date them, you try to act in a manner in which they are likely to fall for you, and you generally act however they want you to. You make predictable decisions with predictable outcomes, all for the sake of entering a romantic relationship.&lt;br/&gt;&lt;br/&gt;In Sickness, things aren&amp;rsquo;t so simple.&lt;br/&gt;&lt;br/&gt;Although it is possible to date other characters, relationships in Sickness serve other, more important purposes. At its most extreme, a good or bad relationship with the right person can be the difference between life and death. Along the same vein, the way you choose to treat and act around other people can have horrific consequences for your friends and family.&lt;br/&gt;&lt;br/&gt;As the decisions you make define who the main character becomes, your relationships with other characters can spur along your descent, or conversely serve as the solid ground you need to retain your sense of self.&lt;br/&gt;&lt;br/&gt;Don&amp;rsquo;t take your relationships in Sickness lightly. Although many of the usual themes present in romance VNs still apply, acting out of single-minded lust or apparent kindness can cost you everything.&lt;br/&gt;
+      &lt;center&gt;
+        &lt;h3&gt;Endings&lt;/h3&gt;
+      &lt;/center&gt;&lt;br/&gt;Sickness includes several endings, both good and bad. Some endings are very similar (ie. there is a very minor difference triggered by an earlier decision), while others are vastly different.&lt;br/&gt;&lt;br/&gt;The number of bad endings outweighs the number of good endings. Bad ends are mostly easy to avoid, but there are plenty of them, and the first bad ending comes into the game far sooner than any possible good ending.&lt;br/&gt;&lt;br/&gt;Endings are ultimately about the decisions you make, but to break it down further, they are influenced by your relationships with others, your hesitation or willingness to act, your attitude towards opportunities that arise, and the balance you show between decisiveness and careful planning.&lt;br/&gt;&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;
+  &lt;div class=&#34;content&#34;&gt;&lt;span&gt;
+      &lt;center&gt;
+        &lt;h3&gt;Warning: Mild Spoilers&lt;/h3&gt;
+      &lt;/center&gt;Sickness begins after the untimely deaths of the parents of Koro, the main character, and his twin sister, Sara.&lt;br/&gt;&lt;br/&gt;With the circumstances around their deaths being declared suspicious, the siblings are evicted from their home with only as much as they can carry. They both realize that their dismal savings won&amp;rsquo;t last long, and without any source of income or a roof over their heads, their lives are immediately thrown into disarray.&lt;br/&gt;&lt;br/&gt;Seeing the impact their situation is having on his sister, Koro immediately takes charge of the situation, quitting school without hesitation and quickly finding employment in Richmond, a two-class town which offers no future for the poor. He finds a decent home for his sister to live in, begins working as soon as possible, and attempts to put their lives back on track.&lt;br/&gt;&lt;br/&gt;For a while, their new home situation seems to work. It&amp;rsquo;s not glamorous, and they aren&amp;rsquo;t even close to living the good life, but they survive. Koro works long, physically exhausting hours, and Sara provides a peaceful home life outside of her studies. Even without parents or money, the two make ends meet, and at the end of the day, they still have each other.&lt;br/&gt;&lt;br/&gt;But it doesn&amp;rsquo;t last.&lt;br/&gt;&lt;br/&gt;Just as their new life starts to seem a little less bleak, Koro falls victim to what he calls his &amp;ldquo;Sickness&amp;rdquo;. A physical and mental manifestation of his violent impulses; an honest self he keeps hidden at all times. He doesn&amp;rsquo;t know what it is or when it started to appear, but when his Sickness does strike, he loses all control.&lt;br/&gt;&lt;br/&gt;Triggered by an unfortunate incident at his new workplace, the Sickness takes over, and by the time Koro realizes what he has done, his boss is already dead.&lt;br/&gt;&lt;br/&gt;Panicked and desperate for cash, Koro confides in a coworker of his, whom he knows to have a sketchy past. Surely enough, the coworker offers him &amp;ldquo;real&amp;rdquo; work, with a near-immediate start, cash payments, and a down-payment to ensure his compliance.&lt;br/&gt;&lt;br/&gt;But what Koro doesn&amp;rsquo;t know is that his coworker is merely a scout. The money and the job offer alike both come courtesy of a third party; one of the crimelords governing Richmond.&lt;br/&gt;&lt;br/&gt;The situation rapidly escalates, leaving Koro with an uncertain future as he is left indebted to a criminal mastermind. The jobs he is tasked with in order to pay off his debt, and to continue to put food on the table and pay the rent, are never legal, and the heinous nature of his crimes only escalates as time goes on.&lt;br/&gt;&lt;br/&gt;But is life as the subordinate of a crimelord really so bad?&lt;br/&gt;&lt;br/&gt;As it turns out, Koro has a knack for crime. His violent past, flimsy morals, physical fitness and constant need for money make him the perfect employee. Better yet, crime &lt;i&gt;does&lt;/i&gt; pay, and thanks to his willingness to commit vile acts, it pays well.&lt;br/&gt;&lt;br/&gt;Though somewhat hesitant at first, Koro continues to adapt to every situation thrown at him, and it is this very adaptability that singles him out from the pack. Before long he manages to catch his boss&amp;rsquo;s eye, and from then on out his life becomes far more interesting.&lt;br/&gt;&lt;br/&gt;With his life as a professional criminal only just beginning, his need for money ongoing, and his true job forever hidden from his sister, Koro continues to accelerate past the point of no return and into a life of utter chaos.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src=&#34;https://koroshiya.github.io/js/accordion.js&#34; type=&#34;text/javascript&#34; charset=&#34;utf-8&#34; defer=&#34;defer&#34; async=&#34;async&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Credits</title>
+      <link>https://koroshiya.github.io/credits/</link>
+      <pubDate>Thu, 10 Dec 2015 15:54:59 +1100</pubDate>
+      
+      <guid>https://koroshiya.github.io/credits/</guid>
+      <description>&lt;p&gt;&lt;br&gt;
+*Note: this list is not exhaustive and potentially outdated.&lt;br&gt;
+For a full and up-to-date credits list, click on the Credits in-game.&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;table class=&#34;table table-striped&#34;&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;th&gt;Contributor&lt;/th&gt;
+            &lt;th&gt;Contributions&lt;/th&gt;
+            &lt;th&gt;Website&lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Writer/Programmer/Creator/etc.&lt;/td&gt;
+            &lt;td&gt;Zetsubou&lt;/td&gt;
+            &lt;td&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Producer&lt;/td&gt;
+            &lt;td&gt;Kyle Tyner - Unwonted Studios&lt;/td&gt;
+            &lt;td&gt;http://www.unwontedstudios.com/&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Ezri&lt;/td&gt;
+            &lt;td&gt;Sprites&lt;/td&gt;
+            &lt;td&gt;http://www.ezriart.com/&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Monika M.&lt;/td&gt;
+            &lt;td&gt;Sprites&lt;/td&gt;
+            &lt;td&gt;http://psyalera.deviantart.com/&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Jake Bowkett&lt;/td&gt;
+            &lt;td&gt;Backgrounds&lt;/td&gt;
+            &lt;td&gt;http://www.jakebowkett.com/&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Sendo&lt;/td&gt;
+            &lt;td&gt;Backgrounds&lt;/td&gt;
+            &lt;td&gt;http://sendraw.deviantart.com&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Rachel Marks (FalyneVarger)&lt;/td&gt;
+            &lt;td&gt;Backgrounds&lt;/td&gt;
+            &lt;td&gt;http://falynevarger.deviantart.com/&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;7aho&lt;/td&gt;
+            &lt;td&gt;Backgrounds&lt;/td&gt;
+            &lt;td&gt;http://7aho.deviantart.com/&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Tomasz Madej&lt;/td&gt;
+            &lt;td&gt;Backgrounds&lt;/td&gt;
+            &lt;td&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Flora&lt;/td&gt;
+            &lt;td&gt;CGs&lt;/td&gt;
+            &lt;td&gt;http://floradrawz.com&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Kingv&lt;/td&gt;
+            &lt;td&gt;GUI Artwork&lt;/td&gt;
+            &lt;td&gt;http://kingv.deviantart.com/&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;David Fuentes&lt;/td&gt;
+            &lt;td&gt;Item Sprites&lt;/td&gt;
+            &lt;td&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Cylight Studios&lt;/td&gt;
+            &lt;td&gt;Music&lt;/td&gt;
+            &lt;td&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Mock Off&lt;/td&gt;
+            &lt;td&gt;Music&lt;/td&gt;
+            &lt;td&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Noyemi K.&lt;/td&gt;
+            &lt;td&gt;Music&lt;/td&gt;
+            &lt;td&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Development Progress</title>
+      <link>https://koroshiya.github.io/progress/</link>
+      <pubDate>Thu, 10 Dec 2015 15:54:59 +1100</pubDate>
+      
+      <guid>https://koroshiya.github.io/progress/</guid>
+      <description>
+
+&lt;p&gt;&lt;br&gt;
+&lt;strong&gt;Last updated: 21st December 2015&lt;/strong&gt;&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;writing:bc57a9960214dfc89ce94b4e3f77f56c&#34;&gt;Writing&lt;/h2&gt;
+
+&lt;p&gt;Demo word count: 26.5k
+Main game word count: 75k (excluding demo)
+Full game word count: 40k (excluding main game)
+Misa extra word count: 10k
+Total: 150k&lt;/p&gt;
+
+&lt;h2 id=&#34;scripting-endings:bc57a9960214dfc89ce94b4e3f77f56c&#34;&gt;Scripting/Endings&lt;/h2&gt;
+
+&lt;p&gt;Demo: scripting complete
+Main game: 14 of 17 chapters complete
+Full game: unstarted
+Misa extra: unstarted&lt;/p&gt;
+
+&lt;p&gt;All GUI and other screen coding complete.&lt;br /&gt;
+All other non-in-game coding complete.&lt;/p&gt;
+
+&lt;h2 id=&#34;artwork:bc57a9960214dfc89ce94b4e3f77f56c&#34;&gt;Artwork&lt;/h2&gt;
+
+&lt;h3 id=&#34;sprites:bc57a9960214dfc89ce94b4e3f77f56c&#34;&gt;Sprites&lt;/h3&gt;
+
+&lt;p&gt;All sprites complete.&lt;/p&gt;
+
+&lt;h3 id=&#34;backgrounds:bc57a9960214dfc89ce94b4e3f77f56c&#34;&gt;Backgrounds&lt;/h3&gt;
+
+&lt;p&gt;&lt;sup&gt;60&lt;/sup&gt;&amp;frasl;&lt;sub&gt;71&lt;/sub&gt; BGs complete&lt;/p&gt;
+
+&lt;h3 id=&#34;cgs:bc57a9960214dfc89ce94b4e3f77f56c&#34;&gt;CGs&lt;/h3&gt;
+
+&lt;p&gt;80 of 85+ complete.&lt;br /&gt;
+Several of these will not be in the main game.&lt;/p&gt;
+
+&lt;h3 id=&#34;gui:bc57a9960214dfc89ce94b4e3f77f56c&#34;&gt;GUI&lt;/h3&gt;
+
+&lt;p&gt;Both PC and Mobile GUIs complete.&lt;/p&gt;
+
+&lt;h3 id=&#34;items:bc57a9960214dfc89ce94b4e3f77f56c&#34;&gt;Items&lt;/h3&gt;
+
+&lt;p&gt;Currently waiting on: 2&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Download</title>
+      <link>https://koroshiya.github.io/download/</link>
+      <pubDate>Thu, 10 Dec 2015 15:54:59 +1100</pubDate>
+      
+      <guid>https://koroshiya.github.io/download/</guid>
+      <description>
+
+&lt;h3 id=&#34;full-game:147ca6d03f222fe2ead83908bb3bcedf&#34;&gt;Full game&lt;/h3&gt;
+
+&lt;p&gt;Sickness is currently aiming for a Jan 17th 2016 release.&lt;/p&gt;
+
+&lt;h3 id=&#34;demo:147ca6d03f222fe2ead83908bb3bcedf&#34;&gt;Demo&lt;/h3&gt;
+
+&lt;p&gt;The demo covers the first &amp;hellip; (of &amp;hellip;) chapters of Sickness.
+It is available for download here: &amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>In-Game Screenshots</title>
+      <link>https://koroshiya.github.io/screenshots/</link>
+      <pubDate>Thu, 10 Dec 2015 15:53:24 +1100</pubDate>
+      
+      <guid>https://koroshiya.github.io/screenshots/</guid>
+      <description>&lt;div class=&#34;zoom-gallery&#34;&gt;
+  &lt;a href=&#34;https://koroshiya.github.io/img/Screenshot - 250115 - 12:17:33_big.jpg&#34; title=&#34;Main Menu screen, with one of 5 randomly selected images as the background&#34; style=&#34;width:645px;height:376px;&#34;&gt;
+    &lt;img src=&#34;https://koroshiya.github.io/img/Screenshot - 250115 - 12:17:33.jpg&#34; width=&#34;323&#34; height=&#34;188&#34;/&gt;
+  &lt;/a&gt;
+  &lt;a href=&#34;https://koroshiya.github.io/img/Screenshot - 250115 - 11:55:37_big.jpg&#34; title=&#34;&#34; style=&#34;width:645px;height:376px;&#34;&gt;
+    &lt;img src=&#34;https://koroshiya.github.io/img/Screenshot - 250115 - 11:55:37.jpg&#34; width=&#34;323&#34; height=&#34;188&#34;/&gt;
+  &lt;/a&gt;
+  &lt;a href=&#34;https://koroshiya.github.io/img/Screenshot - 250115 - 12:02:21_big.jpg&#34; title=&#34;&#34; style=&#34;width:645px;height:376px;&#34;&gt;
+    &lt;img src=&#34;https://koroshiya.github.io/img/Screenshot - 250115 - 12:02:21.jpg&#34; width=&#34;323&#34; height=&#34;188&#34;/&gt;
+  &lt;/a&gt;
+  &lt;a href=&#34;https://koroshiya.github.io/img/Screenshot - 250115 - 12:04:06_big.jpg&#34; title=&#34;An screenshot of an event when the player is forced to make a choice&#34; style=&#34;width:645px;height:376px;&#34;&gt;
+    &lt;img src=&#34;https://koroshiya.github.io/img/Screenshot - 250115 - 12:04:06.jpg&#34; width=&#34;323&#34; height=&#34;188&#34;/&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Main Characters</title>
+      <link>https://koroshiya.github.io/characters/</link>
+      <pubDate>Thu, 10 Dec 2015 15:53:24 +1100</pubDate>
+      
+      <guid>https://koroshiya.github.io/characters/</guid>
+      <description>&lt;p&gt;&lt;img title=&#34;Suoh Tesla&#34; src=&#34;https://koroshiya.github.io/img/suoh_thumb.png&#34; onclick=&#34;showChar(&#39;suoh&#39;);&#34; class=&#34;char_image&#34;/&gt;
+&lt;img title=&#34;Sara Tesla&#34; src=&#34;https://koroshiya.github.io/img/sara_thumb.png&#34; onclick=&#34;showChar(&#39;sara&#39;);&#34; class=&#34;char_image&#34;/&gt;
+&lt;img title=&#34;Lucia Kaye&#34; src=&#34;https://koroshiya.github.io/img/lucia_thumb.png&#34; onclick=&#34;showChar(&#39;lucia&#39;);&#34; class=&#34;char_image&#34;/&gt;
+&lt;!--&lt;img title=&#34;Cecilia Cresent&#34; src=&#34;https://koroshiya.github.io/img/cecilia_thumb.png&#34; onclick=&#34;showChar(&#39;cecilia&#39;);&#34; class=&#34;char_image&#34;/&gt;--&gt;
+&lt;img title=&#34;Misa&#34; src=&#34;https://koroshiya.github.io/img/misa_thumb.png&#34; onclick=&#34;showChar(&#39;misa&#39;);&#34; class=&#34;char_image&#34;/&gt;
+&lt;img title=&#34;Sai&#34; src=&#34;https://koroshiya.github.io/img/sai_thumb.png&#34; onclick=&#34;showChar(&#39;sai&#39;);&#34; class=&#34;char_image&#34;/&gt;
+&lt;img title=&#34;Karasu&#34; src=&#34;https://koroshiya.github.io/img/karasu_thumb.png&#34; onclick=&#34;showChar(&#39;karasu&#39;);&#34; class=&#34;char_image&#34;/&gt;&lt;/p&gt;
+
+&lt;div id=&#34;charDisplayDiv&#34; style=&#34;text-align:center;display:none;&#34;&gt;
+  &lt;button type=&#34;button&#34; onclick=&#34;toggleCharBio();&#34; class=&#34;btn btn-default&#34;&gt;Toggle Character Bio&lt;/button&gt;    &lt;br/&gt;&lt;br/&gt;
+  &lt;center&gt;&lt;img title=&#34;&#34; src=&#34;&#34; class=&#34;char_image&#34;/&gt;&lt;/center&gt;
+  &lt;div class=&#34;char_desc&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://koroshiya.github.io/css/pgwmodal.min.css&#34;&gt;
+&lt;script src=&#34;https://koroshiya.github.io/js/pgwmodal.min.js&#34; type=&#34;text/javascript&#34; charset=&#34;utf-8&#34; async defer&gt;&lt;/script&gt;
+&lt;script src=&#34;https://koroshiya.github.io/js/chars.js&#34; type=&#34;text/javascript&#34; charset=&#34;utf-8&#34; async defer&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

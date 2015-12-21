@@ -3,7 +3,43 @@
   
   <url>
     <loc>https://koroshiya.github.io/</loc>
+    <lastmod>2015-12-21T13:54:06+11:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://koroshiya.github.io/_index/</loc>
+    <lastmod>2015-12-21T13:54:06+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://koroshiya.github.io/about/</loc>
+    <lastmod>2015-12-10T16:03:01+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://koroshiya.github.io/credits/</loc>
+    <lastmod>2015-12-10T15:54:59+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://koroshiya.github.io/progress/</loc>
+    <lastmod>2015-12-10T15:54:59+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://koroshiya.github.io/download/</loc>
+    <lastmod>2015-12-10T15:54:59+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://koroshiya.github.io/screenshots/</loc>
+    <lastmod>2015-12-10T15:53:24+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://koroshiya.github.io/characters/</loc>
+    <lastmod>2015-12-10T15:53:24+11:00</lastmod>
   </url>
   
 </urlset>
