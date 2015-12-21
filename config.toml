@@ -1,0 +1,7 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "Sickness Visual Novel"
+[params]
+  mainMenu = ["about", "characters", "screenshots", "download", "credits", "progress"]
+  description = "Official home of Sickness the visual novel"
+  noCategoryLink = "true"
